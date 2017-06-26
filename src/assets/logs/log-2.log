@@ -1,0 +1,7 @@
+{"name":"sql","hostname":"net.local","pid":4174,"level":30,"msg":"SELECT * FROM countries\n","time":"2017-06-22T17:25:17.650Z","v":0}
+{"name":"sql","hostname":"net.local","pid":4363,"level":30,"msg":"SELECT * FROM countries\n","time":"2017-06-22T18:01:52.883Z","v":0}
+{"name":"sql","hostname":"net.local","pid":4934,"level":30,"msg":"SELECT * FROM countries\n","time":"2017-06-22T19:08:26.421Z","v":0}
+{"name":"sql","hostname":"net.local","pid":5026,"level":30,"msg":"SELECT * FROM countries\n","time":"2017-06-22T19:14:49.559Z","v":0}
+{"name":"sql","hostname":"net.local","pid":5033,"level":30,"msg":"SELECT * FROM countries\n","time":"2017-06-22T19:15:57.139Z","v":0}
+{"name":"sql","hostname":"net.local","pid":5048,"level":30,"msg":"SELECT * FROM countries\n","time":"2017-06-22T19:17:17.096Z","v":0}
+{"name":"sql","hostname":"net.local","pid":5048,"level":30,"msg":"SELECT * FROM countries\n","time":"2017-06-22T19:17:23.507Z","v":0}

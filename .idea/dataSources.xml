@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="popchefpostgre@popchefpostgre.ctpnyikidjdj.eu-central-1.rds.amazonaws.com" uuid="2c7285cc-6f87-4f24-9525-5387464447d8">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://popchefpostgre.ctpnyikidjdj.eu-central-1.rds.amazonaws.com:5432/popchefpostgre</jdbc-url>
+    </data-source>
+  </component>
+</project>
